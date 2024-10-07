@@ -1,4 +1,4 @@
-# Data science portfolio by Howard Monington
+# Data science portfolio by Luke Monington
 
 This portfolio is a compilation of AI notebooks which I wrote in order to explore machine learning and deep learning.
 
